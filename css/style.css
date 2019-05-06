@@ -1,0 +1,56 @@
+body{
+	background-color: #dadada;
+       margin: 0px;
+       padding: 0px;
+}
+.container{
+
+	width: 80%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.col{
+
+}
+.left{
+	width: 30%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+	height: 200px;
+}
+.bg-color{
+	background-color: #FF9800;
+	padding: 15px;
+	box-shadow: 0 0 20px #6f7b6f;
+}
+.dol{
+
+}
+.right{
+	height: 200px;
+	width: 70%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+.bg-white{
+	background-color: white;
+	padding: 15px;
+	box-shadow: 0 0 20px #5a6d5a;
+}
+.down{
+	background-color: blue;
+	color: green;
+}
+	.row{
+
+		height: 200px;
+		padding: 15px;
+         float: right;
+         width: 70%;
+         margin-top: 400px;
+	
+	}
